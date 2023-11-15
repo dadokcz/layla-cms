@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "Sign up for our news letter."
+msgstr "."
+
+msgid "We are always updating, stay in touch!"
+msgstr "我们一直在更新，保持联系！"
+
+msgid "Your email address"
+msgstr "您的电子邮件地址"
+
+msgid "Subscribe"
+msgstr "订阅"
+
+msgid "Thank you!"
+msgstr "谢谢！"
+
+msgid "Your email has been successfully subscribed."
+msgstr "您的电子邮件已成功订阅。"
+
+msgid "Oops!"
+msgstr "哎呀！"
+
+msgid "Something went wrong with adding your email address to the list."
+msgstr "将电子邮件地址添加到列表中时出错。"
+
+msgid "Credits"
+msgstr "学分"
+
+msgid "PUBLISHING SYSTEM"
+msgstr "发布系统"
+
+msgid "Switch to"
+msgstr "切换它"
+
+msgid "Buy Layla License"
+msgstr "购买莱拉许可证"
+
+msgid "Number of Licences"
+msgstr "许可证数量"
+
+msgid "First & Last name"
+msgstr "名字 + 姓氏"
+
+msgid "Please fill"
+msgstr "请填写"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "City"
+msgstr "城市"
+
+msgid "VAT"
+msgstr "增值税"
+
+msgid "Your e-mail"
+msgstr "您的电子邮件"
+
+msgid "Your phone"
+msgstr "您的手机"
+
+msgid "State"
+msgstr "状态"
+
+msgid "3120"
+msgstr "3120"
+
+msgid "EUR"
+msgstr "欧元"
+
+msgid "I agree with the"
+msgstr "我同意"
+
+msgid "terms and conditions"
+msgstr "条款和条件"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Discount"
+msgstr "折扣"
+
+msgid "Buy Layla"
+msgstr "买莱拉"
+
+msgid "Layla is software you can use to create a beautiful & fast website, blog, or app."
+msgstr "Layla 是可用于创建美观快速的网站、博客或应用程序的软件。"
+
+msgid "Start create proffesional websites now."
+msgstr "立即开始创建专业网站。"
+
+msgid "Click to try a demo"
+msgstr "单击以尝试演示"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "for OSX"
+msgstr "对于奥斯克斯"
+
+msgid "client"
+msgstr "客户"
+
+msgid "for Windows"
+msgstr "用于窗口"
+
+msgid "Požadavky: PHP5+"
+msgstr "要求：PHP5+"
+
+msgid "Buy"
+msgstr "买"
+
+msgid "License"
+msgstr "许可证"
+
+msgid "server"
+msgstr "服务器"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "For Users"
+msgstr "对于用户"
+
+msgid "Jednodušší ovládání webu než kdy předtím."
+msgstr "比以往更容易进行网络控制。"
+
+msgid "Již první vydání publikačního systému Layla ovládá jednoduchou správu statických stránek i příspěvků. Chcete vytvořit novou stránku a zařadit ji do navigace? Prostě přidejte novou stránku. Chcete vytvořit nový příspěvek do sekce novinky nebo do blogu? Udělejte to."
+msgstr "第一版 layla 发布系统控制静态页面和帖子的简单管理。是否要创建新页面并包括在导航中？只需添加新页面。是否要为新闻部分或博客创建新帖子？做吧。"
+
+msgid "Šablony a vzhled stránek."
+msgstr "模板和页面外观。"
+
+msgid "Vyberte si právě tu šablonu, která vystihuje téma k Vaší prezentaci. A na zcela nových šablonách stále pracujeme."
+msgstr "选择描述演示文稿主题的模板。我们仍在研究全新的模板。"
+
+msgid "Instalační pokyny."
+msgstr "安装说明。"
+
+msgid "Layla běží na každém webhostingu s podporou PHP5+. Ano, a to je opravdu vše. Žádné nastavování externí databáze. Layla má vlastní lokální databázi. Žádné další nároky na provoz."
+msgstr "Layla 在每个启用 PHP5+ 的 Web 主机上运行。是的，就是这样。没有外部数据库设置。莱拉有自己的本地数据库。不再有流量要求。"
+
+msgid "For Advanced Users"
+msgstr "对于高级用户"
+
+msgid "Možnost jazykových lokalizací administrace."
+msgstr "管理语言本地化的可能性。"
+
+msgid "Layla je sice vyvíjena v Praze (Česká republika), ale umí několik jazyků i v administračním rozhraní. Zvládne ji tak ovládat i Váš kolega ze zahraničí."
+msgstr "Layla 是在布拉格 （捷克共和国）开发的，但她可以在管理界面上讲几种语言。它可以由你在国外的同事控制。"
+
+msgid "Možnost jazykových lokalizací šablon."
+msgstr "模板语言本地化的可能性。"
+
+msgid "Vaše nápady a prezentace si zaslouží prodávat globálně. Jednoduchost nastavení jazykových lokalizací skrz libovolné textové řetězce v šablonách je v Layle samozřejmost."
+msgstr "您的想法和演示文稿值得在全球销售。在 Layle 中，通过模板中的任何文本字符串设置语言本地化的简单性是司空见惯的。"
+
+msgid "Jazykové lokalizace pod kontrolou."
+msgstr "语言本地化在控制之下。"
+
+msgid "Všechny jazykové lokalizace od administrace po šablony a Váš obsah můžete jednoduše spravovat z administraci."
+msgstr "从管理到模板的所有语言本地化以及您的内容都可以从管理中轻松管理。"
+
+msgid "For Developers"
+msgstr "对于开发人员"
+
+msgid "Kompletní přizpůsobitelnost."
+msgstr "完全可定制性。"
+
+msgid "Chcete přidat vlastní funkci? Nebo jen chcete zlepšit kvalitu publikačního systému? Můžete se podílet na aktualizacích publikačního systému s námi. Aktualizace zahrneme do oficiálního vydání."
+msgstr "是否要添加自定义功能？还是只想提高出版系统的质量？您可以和我们一起参与发布系统的更新。更新将包含在官方版本中。"
+
+msgid "Jeden univerzální publikační systém na všechno."
+msgstr "一个通用的发布系统，一切。"
+
+msgid "Nikoho nenutíme použivat publikační systém Layla v defaultní funkční verzi a vzhledu. Používejte publikační systém Layla jako základ pro Vaše nové aplikace a projekty a obohaťte ho o nové funkce dle Vašich představ."
+msgstr "我们不会强迫任何人在默认功能版本和外观中使用 layla 发布系统。使用 Layla 发布系统作为新应用程序和项目的基础，并充分利用您喜欢的新功能来丰富它。"
+
+msgid "Do you have any questions?"
+msgstr "你有问题吗？"
+
+msgid "Ask us anything"
+msgstr "问我们任何事情"
+
+msgid "Try it"
+msgstr "试试看"
+
+msgid "on browser"
+msgstr "在浏览器上"

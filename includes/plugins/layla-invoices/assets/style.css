@@ -1,0 +1,188 @@
+@import "bootstrap.css";  
+
+body,html {  background-color:; }
+
+
+.bubble,
+.deposit{
+	display: block;
+}
+.info-box{
+	display: none;
+}
+
+
+/* =================================================================================
+Invoice
+================================================================================= */
+.invoice {
+
+  background: #fff;
+  position: relative;
+  padding: 70px;
+  border: 1px solid #ccc;
+  font-family: 'Montserrat', sans-serif;
+}
+.invoice .logo {
+  line-height: 26px;
+  text-align: center;
+  color: #76747A;
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+.invoice .logo img {
+  margin-bottom: 10px;
+}
+.invoice .logo b {
+  color: #37353E;
+  font-weight: 500;
+}
+.invoice .line {
+  border-bottom: 2px solid #E4E4E4;
+  padding: 50px 0;
+}
+.invoice .line h4 {
+  margin: 0;
+  color: #76747A;
+  font-weight: bold;
+  font-size: 14px;
+}
+.invoice .line h2 {
+  color: #37353E;
+  font-weight: normal;
+  font-size: 24px;
+  margin: 0;
+}
+.invoice .table {
+  margin-top: 40px;
+  color: #37353E;
+  font-size: 17px;
+}
+.invoice .table .title {
+  font-size: 14px;
+  color: #76747A;
+}
+.invoice .table p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #76747A;
+}
+.invoice .table .total {
+  margin: 0;
+}
+.invoice .table > thead > tr > th,
+.invoice .table > tbody > tr > th,
+.invoice .table > tfoot > tr > th,
+.invoice .table > thead > tr > td,
+.invoice .table > tbody > tr > td,
+.invoice .table > tfoot > tr > td {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.invoice .signature {
+  border-bottom: 2px solid #E4E4E4;
+  /*border-top: 2px solid #E4E4E4;*/
+  margin: -110px 0 20px 0;
+  padding: 20px 0;
+}
+.invoice .bottomtext {
+  font-size: 11px;
+  font-family: 'Open Sans', sans-serif;
+}
+.invoice .invoicename {
+  text-transform: uppercase;
+  color: #E4E4E4;
+  text-align: right;
+  font-weight: bold;
+  font-size: 30px;
+  right: 50px;
+  top: 50px;
+  position: absolute;
+}
+.invoice .qrname {
+  color: #E4E4E4;
+  text-align: right;
+  font-weight: bold;
+  font-size: 30px;
+  left: 30px;
+  top: 30px;
+  position: absolute;
+}
+.showdesc{
+	cursor: pointer;
+}
+
+
+.row{
+  margin-right: -15px;
+margin-left: -15px;
+}
+.zoomico{width: 20px; height: 20px; vertical-align: middle; opacity: 1;}
+
+.invoice{
+  background: #fff;
+position: relative;
+padding: 70px;
+border: 1px solid #ccc;
+font-family: 'Montserrat', sans-serif;
+}
+.container-padding{
+  padding-left: 20px;
+padding-right: 20px;
+max-width: 950px;
+margin: 20px auto 20px auto;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------------------
+ 		Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-----------------------------------------------------------------------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; vertical-align: baseline; background: ; color:#353535; font-family:Arial, Helvetica, Tahoma, Geneva, sans-serif; }
+
+
+
+.stamp {
+  position: absolute;
+  z-index: 999999;
+  transform: rotate(12deg);
+  color: #555;
+  font-size: 3rem;
+  font-weight: 700;
+  border: 0.25rem solid #555;
+  display: inline-block;
+  padding: 0.25rem 1rem;
+  text-transform: uppercase;
+  border-radius: 1rem;
+  font-family: 'Courier';
+  -webkit-mask-image: url('grunge.png');
+  -webkit-mask-size: 944px 604px;
+  mix-blend-mode: multiply;
+}
+
+.is-nope {
+  color: #D23;
+  border: 0.5rem double #D23;
+  transform: rotate(3deg);
+  -webkit-mask-position: 2rem 3rem;
+  font-size: 2rem;  
+}
+
+.is-approved {
+  color: #0A9928;
+  border: 0.5rem solid #0A9928;
+  -webkit-mask-position: 13rem 6rem;
+  transform: rotate(-14deg);
+  border-radius: 0;
+} 
+
+.is-draft {
+  color: #C4C4C4;
+  border: 1rem double #C4C4C4;
+  transform: rotate(-5deg);
+  font-size: 6rem;
+  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  border-radius: 0;
+  padding: 0.5rem;
+} 

@@ -1,0 +1,82 @@
+# [Verze 1.8.1] - 17-12-2017
+
+- Optimalizace běhu a rychlosti pokladny
+- Další opravy chyb
+
+# [Verze 1.8.0] - 11-12-2017
+
+- Číšnící nyní nemohou spravovat zboží 
+- Další malé záplaty
+
+# [Verze 1.7.9] - 07-12-2017
+
+- Přidána podpora starších tiskáren, které nepodporují obrázky 
+- Možnost storna namarkovaných položek pouze vedoucím změny
+
+# [Verze 1.7.8] - 15-07-2017
+
+- Drobná optimalizace rychlosti markování
+- Změna designu některých položek
+
+# [Verze 1.7.7] - 06-07-2017
+
+- běžné opravy
+
+# [Verze 1.7.6] - 02-05-2017
+
+- fix uzávěrky
+- fix automatických záloh
+
+# [Verze 1.7.5] - 13-04-2017
+
+- opraven datum otevření kasy v reportech
+
+# [Verze 1.7.4] - 07-04-2017
+
+- upraven problém s duplikáty - otevírání provozoven a zdvojování uzávěrek
+- přidán nový grafický set ikon pro provozovny s ubytováním
+- v reportech je nyní možnost tisknutí konkrétní uzávěrky
+- po uzavření provozovny se nyní automaticky vytiskne uzávěrka
+
+# [Verze 1.7.3] - 02-04-2017
+
+- technická změna typu ukládání informací o přihlašování a o aktualizacích aktuálního přihlášeného uživatele
+- drobné optimalizace pro rychlejší běh aplikace
+
+# [Verze 1.7.2] - 01-04-2017
+
+- běžné úpravy
+
+
+# [Verze 1.7.1] - 31-03-2017
+
+- povoleno subverzování do dalšího řádu ve formátu 1.x.x
+
+# [Verze 1.7] - 31-03-2017
+
+- oprava resetování pokladny při markování
+- oprava počítání kasírek a reportů
+- do horní lišty přidány hodiny
+
+# [Verze 1.6] - 24-03-2017
+
+- oprava duplikátů účtenek v prodejích
+- do denních uzávěrek přidán rozpis přijatých a storno plateb
+
+
+# [Verze 1.5] - 21-03-2017
+
+- tabulátor byl v přihlašovacím formuláři povolen
+- opraveno počítání uzávěrek v zadaném datovém rozmezí
+- odstraněna chyba v duplikátů prodejů při vícenásobném klepnutí na tlačítko tisk účtenky
+- Do reportů přidán rozpis DPH 
+
+
+# [Verze 1.4] - 14-02-2017
+
+- v menu e-mailů se nyní zobrazuje bublinka s počtem nových e-mailů
+- nastavení nyní obsahuje položku aktualizace
+- sklad lze nyní vyplnit přímo po vložení nového produktu skrz účet obsluhy
+
+
+

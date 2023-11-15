@@ -1,0 +1,14 @@
+default_template;loco;
+default_admin_template;day;
+default_url;http://demo.laylacms.com;
+sitename;Layla;
+siteemail;info@laylacms.com;
+sitedescription;test;
+default_language;gb;
+default_admin_language;cz;
+languages;cz,gb;
+languages_admin;cz,at,de,it,pl,ru,sk,gb;
+default_homepage;cz:ahoj,default:ahoj;
+plugins;;
+menu_sort;;
+currency;;

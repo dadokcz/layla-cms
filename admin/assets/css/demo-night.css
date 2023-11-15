@@ -1,0 +1,19 @@
+body{background: url('../img/bg.jpg') !important;}
+.sidebar{background: none !important;}
+.sidebar-background{background: none !important; opacity: 0;}
+.sidebar a{color: #fff !important;}
+.card-header{background: url('../img/bg.jpg') no-repeat center bottom !important; background-size: 100%; background-position: ;}
+.card-content{background: none !important; background-color: none !important;}
+.card{background: url('../img/bg.jpg') no-repeat center center !important; border: none !important; color: #fff;}
+.brand-text{color: #efefef;}
+input, select, .navbar-header a{color:#fff !important;}
+.label, .label.label-default{background: none;}
+.copyright *,.copyright{color: #fff;}
+.show-web, .navbar-right *{color: #fff;}
+.show-web{border: 1px solid #fff !important; color: #fff !important;}
+.show-web:hover{background: #fff !important; color: #000 !important;}
+.main-panel > .content {
+	padding: 30px 0 !important;
+}
+
+input{background: none !important; color: #fff !important;}

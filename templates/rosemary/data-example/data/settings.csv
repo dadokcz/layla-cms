@@ -1,0 +1,14 @@
+default_template;rosemary;
+default_admin_template;day;
+default_url;http://demo.laylacms.com;
+sitename;Layla;
+siteemail;info@laylacms.com;
+sitedescription;test;
+default_language;cz;
+default_admin_language;gb;
+languages;cz,gb;
+languages_admin;gb;
+default_homepage;default:uvod,at:,de:,it:,pl:,ru:,sk:,gb:home;
+plugins;,layla-shop;
+menu_sort;;
+currency;USD;

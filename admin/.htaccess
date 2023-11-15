@@ -1,0 +1,4 @@
+AuthUserFile /Library/WebServer/Documents/localhost/layla/admin/.htpasswd
+AuthName "Authorized personnel only."
+AuthType Basic
+Require valid-user

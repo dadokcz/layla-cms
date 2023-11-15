@@ -1,0 +1,7 @@
+@font-face {
+	font-family: "Carnas Light";
+	src: url("Carnas-Light.otf") format("opentype");
+	url('Carnas-Light.woff') format('woff');
+	font-weight: light;
+	font-style: normal;
+}

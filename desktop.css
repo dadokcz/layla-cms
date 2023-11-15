@@ -1,0 +1,82 @@
+/*@document regexp("https:.*") {*/
+	.xs-menu-bottombar{
+		/*zoom: 0.5;*/
+	}
+	.xs-layout{
+
+		/*margin-bottom:  0 !important;*/
+	position: relative;
+	width: 100% !important;
+	height: 100%;
+	/*padding-bottom: 20px !important;*/
+	}
+	/*.xs-menu-bottombar-balance *,
+	.xs-menu-bottombar-equity *,
+	.xs-menu-bottombar-margin-box *,
+	.xs-menu-bottombar-margin-level *{float: left; margin-top:  6px;}*/
+	.xs-menu-bottombar-wallet-button{height: 7px;}
+	.xs-switch-container{padding: 0 !important;}
+	.chart-indicator-list *{color: #000;}
+	.xs-menu-bottombar-profit-value{
+		/*font-size: 17px !important;*/
+	}
+	.xs-menu-bottombar-balance-value{
+		/*font-size: 15px !important;*/
+		margin-top: -8px;
+	}
+	.xs-menu-bottombar-wallet-button, a.xs-menu-bottombar-wallet-button{
+		background: #000 !important;
+	}
+	.chart-symbol-label{
+		font-size: 7pt !important;
+		left: 0px !important;
+		padding-left: 7px !important;
+	}
+	.chart-fullscreen-layout .chart-panel-body{
+		/*zoom: 0.9;*/
+	}
+	.xs-tab-nav-container{
+		zoom:  0.7;
+	}
+	.xs-tab-module-container{
+		/*top: 17px !important;*/
+		right: 0;
+		left: 0;
+	}
+	.chart-symbols-draggable-button{
+		/*zoom: 0.1;*/
+	}
+	.chart-symbols-tab{
+		zoom: 0.5;
+	}
+	.chart-symbols-buttonbar>.chart-symbols-tab-container{
+		height: 11px !important;
+	}
+	.chart-panels{
+		padding-bottom:  10px !important;
+	}
+	.chart-panels-container{
+		height: 102%;
+	}
+	.chart-panel-close-section{
+		/*zoom: 1.5;*/
+	}
+
+/*}*/
+
+
+.fv-container .view{display: none;}
+.fv-container .sidebar{display: none;}
+.content.map .content-view-map{
+	margin:  0 !important;
+}
+.has-map .header{
+	display: none;
+}
+.has-map .footer{
+	display: none;	
+}
+#map div:nth-child(2),
+#map div:nth-child(4){
+	display: none;
+}

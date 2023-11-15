@@ -1,0 +1,19 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; vertical-align: baseline; background: ; color:#353535; font-family:Arial, Helvetica, Tahoma, Geneva, sans-serif; }
+body, html {background-color:#FFF; padding:0; margin:0; width:100%; zoom: 0.8;}
+
+.invoice{border: 0 !important; margin-top: -40px; }
+.container{padding:0px; margin:0px; width:100%; border:none;}
+
+.example-right, .stamp{
+	display: none;
+}
+.bubble,
+.info-box{
+	display: none !important;
+}
+p.details{
+	display: none !important;
+}
+.zoomico{
+	display: none;
+}
